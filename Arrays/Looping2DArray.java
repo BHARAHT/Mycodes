@@ -5,6 +5,8 @@ import java.util.Scanner;
 /**
  * Looping2DArray
  */
+//Time complexity =O(n^2)
+//Space complexity=O(1)
 public class Looping2DArray {
 
     public static void main(String[] args) {
